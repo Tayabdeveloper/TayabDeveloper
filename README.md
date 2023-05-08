@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayab</h1>
 <h3 align="center">A Passionate MERN Stack Web Developer From Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/130146964/236751879-a3eba2af-6e41-49a4-8695-a03f67ec7491.png)
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/130146964/236752411-347a96ea-45d8-42fc-8e22-22f5423d9361.png)
+")
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayabdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="tayabdeveloper" /> </p>
